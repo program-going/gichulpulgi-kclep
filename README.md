@@ -14,7 +14,7 @@
 
 ## 필요한 것
 
-- Windows 10 · 11 (64비트)
+- Windows 10 (32비트 · 64비트) · Windows 11
 - KcLep 교육용 프로그램
   - 한국세무사회 공식 사이트에서 다운로드해 설치합니다: https://license.kacta.or.kr
   - KcLep 이 설치되어 있지 않으면 프로그램 오른쪽 위에 [KcLep 미설치 · 다운로드] 가 표시되고, 클릭하면 위 사이트가 열립니다.
@@ -42,6 +42,12 @@ KcLep 이 관리자 권한으로 실행되므로, 이 프로그램을 실행할 
 실제 시험에서는 KcLep 을 직접 실행하고, 종목 선택과 회사코드 입력으로 로그인해야 합니다.
 
 KcLep 직접 실행과 로그인 방법도 따로 연습하세요.
+
+## 문의
+
+사용 중 궁금한 점이나 오류는 [Issues](https://github.com/program-going/gichulpulgi-kclep/issues) 에 글로 남겨 주세요.
+
+글을 남기려면 GitHub 로그인이 필요합니다.
 
 ## 저작권
 
