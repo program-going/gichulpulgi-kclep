@@ -31,8 +31,6 @@ KcLep 이 관리자 권한으로 실행되므로, 이 프로그램을 실행할 
 
 지난 버전은 [Releases](https://github.com/program-going/gichulpulgi-kclep/releases) 에 있습니다.
 
-최신 버전을 받을 수 있도록 GitHub 주소만 공유해 주세요.
-
 ## 업데이트
 
 새 버전이 있으면 프로그램을 실행할 때 안내 창이 표시됩니다.
